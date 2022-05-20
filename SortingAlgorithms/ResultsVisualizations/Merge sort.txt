@@ -1,0 +1,88 @@
+Method: Merge sort
+-------------------------
+Size: 100
+Elapsed time: 0 seconds
+-------------------------
+Size: 200
+Elapsed time: 0 seconds
+-------------------------
+Size: 300
+Elapsed time: 0.001 seconds
+-------------------------
+Size: 400
+Elapsed time: 0 seconds
+-------------------------
+Size: 500
+Elapsed time: 0.001 seconds
+-------------------------
+Size: 600
+Elapsed time: 0.001 seconds
+-------------------------
+Size: 700
+Elapsed time: 0.001 seconds
+-------------------------
+Size: 800
+Elapsed time: 0.001 seconds
+-------------------------
+Size: 900
+Elapsed time: 0.001 seconds
+-------------------------
+Size: 1000
+Elapsed time: 0.001 seconds
+-------------------------
+Size: 2000
+Elapsed time: 0.003 seconds
+-------------------------
+Size: 3000
+Elapsed time: 0.005 seconds
+-------------------------
+Size: 4000
+Elapsed time: 0.009 seconds
+-------------------------
+Size: 5000
+Elapsed time: 0.014 seconds
+-------------------------
+Size: 6000
+Elapsed time: 0.017 seconds
+-------------------------
+Size: 7000
+Elapsed time: 0.02 seconds
+-------------------------
+Size: 8000
+Elapsed time: 0.027 seconds
+-------------------------
+Size: 9000
+Elapsed time: 0.041 seconds
+-------------------------
+Size: 10000
+Elapsed time: 0.046 seconds
+-------------------------
+Size: 20000
+Elapsed time: 0.161 seconds
+-------------------------
+Size: 30000
+Elapsed time: 0.367 seconds
+-------------------------
+Size: 40000
+Elapsed time: 0.914 seconds
+-------------------------
+Size: 50000
+Elapsed time: 1.644 seconds
+-------------------------
+Size: 60000
+Elapsed time: 2.6 seconds
+-------------------------
+Size: 70000
+Elapsed time: 4.86 seconds
+-------------------------
+Size: 80000
+Elapsed time: 8.149 seconds
+-------------------------
+Size: 90000
+Elapsed time: 13.155 seconds
+-------------------------
+Size: 100000
+Elapsed time: 15.409 seconds
+-------------------------
+Size: 200000
+Elapsed time: 93.148 seconds
