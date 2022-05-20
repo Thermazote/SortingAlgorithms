@@ -1,6 +1,5 @@
 from plotly import graph_objects as go
 import os
-import json
 import pandas as pd
 
 
@@ -45,5 +44,4 @@ if __name__ == '__main__':
     )
     
     fig.show()
-
     
